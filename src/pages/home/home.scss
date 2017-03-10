@@ -1,0 +1,13 @@
+page-home {
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #9ed2bc;
+        height: 100%;
+
+        ion-item {
+            max-width: 80%;
+        }
+    }
+}
